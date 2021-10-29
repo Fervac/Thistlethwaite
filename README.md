@@ -14,7 +14,7 @@ output: "D R' F' L' B' F' U' R' D' L' U' B2 U' B2 U L2 D B2 R2 U D2 R2 D2 R2 F2 
 options:
 -h usage
 -r for random mix
--v for a Unity visual
+-v for a Unity visual (Mac build)
 -t for detailed phases
 
 Unity code: https://github.com/Fervac/rubiks
